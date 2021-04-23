@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Resources/Images/Assets/Icons/MainIcons/SharedFiles-gray.png" />
+    <Url Source="Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-gray.png" />
+    <Url Source="Resources/Images/Assets/Icons/MainIcons/Contact-gray.png" />
+    <Url Source="Resources/Images/Assets/Icons/MainIcons/Hello-gray.png" />
+    <Url Source="Resources/Images/Assets/Icons/MainIcons/Services-gray.png" />
+    <Url Source="Resources/Images/Assets/Icons/MainIcons/Solutions-gray.png" />
+    <Url Source="Resources/Images/Assets/Icons/MainIcons/VideosImages-gray.png" />
+    <Url Source="Resources/Images/Assets/Icons/MainIcons/Tips-gray.png" />
+</UrlList>

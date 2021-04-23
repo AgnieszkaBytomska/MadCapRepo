@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Product Safety Instructions and Warnings"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="../../MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css" />
+    <Link
+      Url="../../MadCapFlare/Knowledge Base/Content/_Obrazki/ISO warnings.png" />
+    <Link
+      Url="../../MadCapFlare/Knowledge Base/Content/_Obrazki/ANSI warnings.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="../../MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css" />
+    <Link
+      Url="../../MadCapFlare/Knowledge Base/Content/_Obrazki/ISO warnings.png" />
+    <Link
+      Url="../../MadCapFlare/Knowledge Base/Content/_Obrazki/ANSI warnings.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="../../MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
