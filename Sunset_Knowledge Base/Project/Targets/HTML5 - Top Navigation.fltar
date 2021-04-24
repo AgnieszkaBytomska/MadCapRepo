@@ -24,4 +24,12 @@
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true" />
   <Destinations> </Destinations>
+  <Variables>
+    <Variable
+      Name="General/CompanyName">@2021 Agnieszka Bytomska</Variable>
+    <Variable
+      Name="General/Email">a.bytomska@gmai.com</Variable>
+    <Variable
+      Name="General/PhoneNumber">0048 692 007 707</Variable>
+  </Variables>
 </CatapultTarget>
