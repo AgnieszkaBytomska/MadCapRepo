@@ -17,7 +17,8 @@
   MasterPage="/Content/Resources/MasterPages/HomePage.flmsp"
   TabletBreakpoint="5000"
   MobileBreakpoint="767"
-  OutputFolder="C:\Repos_GitHub\Repos_GitHub_Markdown\Sunset\Output">
+  OutputFolder="C:\Repos_GitHub\MadCapRepo\Sunset_Knowledge Base"
+  OutputFile="index.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

@@ -9,17 +9,17 @@
     <Link
       Url="../../MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css" />
     <Link
-      Url="../../MadCapFlare/Knowledge Base/Content/_Obrazki/ISO warnings.png" />
+      Url="Content/_Images/ISO warnings.png" />
     <Link
-      Url="../../MadCapFlare/Knowledge Base/Content/_Obrazki/ANSI warnings.png" />
+      Url="Content/_Images/ANSI warnings.png" />
   </Links>
   <LongLinks>
     <Link
       Url="../../MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css" />
     <Link
-      Url="../../MadCapFlare/Knowledge Base/Content/_Obrazki/ISO warnings.png" />
+      Url="Content/_Images/ISO warnings.png" />
     <Link
-      Url="../../MadCapFlare/Knowledge Base/Content/_Obrazki/ANSI warnings.png" />
+      Url="Content/_Images/ANSI warnings.png" />
   </LongLinks>
   <Anchors />
   <Keywords />
