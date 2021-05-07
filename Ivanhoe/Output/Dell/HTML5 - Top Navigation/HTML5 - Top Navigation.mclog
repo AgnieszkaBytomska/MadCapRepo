@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5 - Top Navigation.fltar" Date="2021-05-07T23:45:35.0521484+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5 - Top Navigation.fltar" Date="2021-05-08T00:19:03.9380501+02:00">
     <Messages>Compiling target HTML5 - Top Navigation...
 Removing previously generated content...
 Loading skin info...
@@ -102,12 +102,14 @@ Writing search entry cache...
 Generating final output...
 Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
-Generated Default.htm
+Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 19
-Output generated in 22 second(s).
+Output generated in 9 second(s).
 
 Done
+Publishing target HTML5 - Top Navigation...
+Publish skipped: No destination selected.
 Saving log to "C:\Repos_GitHub\MadCapRepo\Ivanhoe\Output\Dell\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"
 </Messages>
     <Warnings>
@@ -115,5 +117,7 @@ Saving log to "C:\Repos_GitHub\MadCapRepo\Ivanhoe\Output\Dell\HTML5 - Top Naviga
         <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Missing linked source file: C:\Repos_GitHub\MadCapRepo\Ivanhoe\Content\Resources\MasterPages\[[[Undefined variable General.Twitter]]]&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Missing linked source file: C:\Repos_GitHub\MadCapRepo\Ivanhoe\Content\Resources\MasterPages\[[[Undefined variable General.Instagram]]]&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
     </Warnings>
-    <Errors />
+    <Errors>
+        <LogEntry File="../../../Project/Targets/HTML5 - Top Navigation.fltar" Message="Publish skipped: No destination selected.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Publisher" Target="HTML5 - Top Navigation" ErrorID="140001" />
+    </Errors>
 </MadCapLog>

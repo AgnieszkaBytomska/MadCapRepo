@@ -14,7 +14,9 @@
   ConditionTagExpression="include[&quot;General.Audience A&quot;] exclude[&quot;General.Audience B&quot;] "
   DefaultUrl="/Content/Home.htm"
   MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
-  MasterStylesheetOverride="true">
+  MasterStylesheetOverride="true"
+  OutputFile="index.htm"
+  OutputFolder="C:\Repos_GitHub\MadCapRepo\Ivanhoe\Output\Dell\HTML5 - Top Navigation">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
