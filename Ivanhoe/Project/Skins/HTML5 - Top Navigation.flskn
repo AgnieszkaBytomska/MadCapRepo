@@ -129,9 +129,11 @@
         Name="Logo">
         <Properties>
           <Property
+            Name="BackgroundImage">url('logo.jpg')</Property>
+          <Property
             Name="BackgroundColor">transparent</Property>
           <Property
-            Name="BackgroundImage">url('logo.jpg')</Property>
+            Name="BackgroundGradient">vertical #ececec transparent</Property>
         </Properties>
       </Style>
     </Styles>
