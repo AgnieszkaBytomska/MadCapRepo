@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="HomePage"
+  FileSearchable="true"
+  MasterPage="file:///C:/Repos_GitHub/MadCapRepo/Ivanhoe/Content/Resources/MasterPages/HomePage.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Project/Skins/HomeSearchBar.flskn" />
+    <Link
+      Url="Content/A_Introduction Topics/Getting Started.htm" />
+    <Link
+      Url="Content/F_More Information/PDF Downloads.htm" />
+    <Link
+      Url="Content/D_Checklist/Checklist.htm" />
+    <Link
+      Url="Content/F_More Information/FAQs.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Project/Skins/HomeSearchBar.flskn" />
+    <Link
+      Url="Content/A_Introduction Topics/Getting Started.htm" />
+    <Link
+      Url="Content/F_More Information/PDF Downloads.htm" />
+    <Link
+      Url="Content/D_Checklist/Checklist.htm" />
+    <Link
+      Url="Content/F_More Information/FAQs.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Author"
+    EvaluatedDefinition="Copyright © 2021 Agnieszka Bytomska">Copyright © 2021 Agnieszka Bytomska</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="0048 692007707">0048 692007707</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName">FictionSoft</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="Kraków, Poland">Kraków, Poland</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T18:02:51.1357833-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Email"
+    Comment=""
+    EvaluatedDefinition="a.bytomska@gmail.com">a.bytomska@gmail.com</Variable>
+  <Variable
+    Name="LinkedIn"
+    Comment=""
+    EvaluatedDefinition="https://www.linkedin.com/company/69797/">https://www.linkedin.com/company/69797/</Variable>
+  <Variable
+    Name="Facebook"
+    Comment=""
+    EvaluatedDefinition="http://www.facebook.com/madcapdocteam">http://www.facebook.com/madcapdocteam</Variable>
+</CatapultVariableSet>

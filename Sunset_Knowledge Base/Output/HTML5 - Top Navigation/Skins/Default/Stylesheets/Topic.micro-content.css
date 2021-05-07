@@ -387,6 +387,13 @@
 	right: 0;
 }
 
+.micro-response iframe.youtube-player_0
+{
+	display: inline-block;
+	width: 395px;
+	height: 263px;
+}
+
 .micro-response .dropDownHotspot
 {
 	color: #3f4652;

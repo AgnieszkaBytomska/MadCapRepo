@@ -387,6 +387,13 @@ a.glossaryTerm
 	right: 0;
 }
 
+iframe.youtube-player_0
+{
+	display: inline-block;
+	width: 395px;
+	height: 263px;
+}
+
 .dropDownHotspot
 {
 	color: #3f4652;

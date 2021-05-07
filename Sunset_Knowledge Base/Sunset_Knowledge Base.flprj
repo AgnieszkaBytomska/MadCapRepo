@@ -1,3 +1,230 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" xml:lang="en-us" SourceControlBound="false" MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css" MasterStylesheetOverride="True">
+<CatapultProject
+  Version="1"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  MasterStylesheetOverride="True"
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="true"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2021-05-05T14:34:00.6310501+02:00">
+  <Files>
+    <Url
+      Source="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Soledad.flprj"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Soledad.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../Soledad/Content/Home.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Home.htm" />
+    <Url
+      Source="../Soledad/Content/Sample Landing Topic.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Sample Landing Topic.htm" />
+    <Url
+      Source="../Soledad/Content/A_Introduction Topics/Basic Steps.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/A_Introduction Topics/Basic Steps.htm" />
+    <Url
+      Source="../Soledad/Content/A_Introduction Topics/Getting Started.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/A_Introduction Topics/Getting Started.htm" />
+    <Url
+      Source="../Soledad/Content/A_Introduction Topics/Whats New.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/A_Introduction Topics/Whats New.htm" />
+    <Url
+      Source="../Soledad/Content/B_Feature Topics/Feature1.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/B_Feature Topics/Feature1.htm" />
+    <Url
+      Source="../Soledad/Content/B_Feature Topics/Feature2.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/B_Feature Topics/Feature2.htm" />
+    <Url
+      Source="../Soledad/Content/B_Feature Topics/Feature3.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/B_Feature Topics/Feature3.htm" />
+    <Url
+      Source="../Soledad/Content/B_Feature Topics/Features.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/B_Feature Topics/Features.htm" />
+    <Url
+      Source="../Soledad/Content/C_Procedure Topics/Procedure1.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/C_Procedure Topics/Procedure1.htm" />
+    <Url
+      Source="../Soledad/Content/C_Procedure Topics/Procedure2.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/C_Procedure Topics/Procedure2.htm" />
+    <Url
+      Source="../Soledad/Content/C_Procedure Topics/Procedure3.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/C_Procedure Topics/Procedure3.htm" />
+    <Url
+      Source="../Soledad/Content/C_Procedure Topics/Procedures.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/C_Procedure Topics/Procedures.htm" />
+    <Url
+      Source="../Soledad/Content/D_More Information/Company Information.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/D_More Information/Company Information.htm" />
+    <Url
+      Source="../Soledad/Content/D_More Information/FAQs.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/D_More Information/FAQs.htm" />
+    <Url
+      Source="../Soledad/Content/D_More Information/PDF Downloads.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/D_More Information/PDF Downloads.htm" />
+    <Url
+      Source="../Soledad/Content/D_More Information/Tips.htm"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/D_More Information/Tips.htm" />
+    <Url
+      Source="../Soledad/Content/Resources/MasterPages/HomePage.flmsp"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="../Soledad/Content/Resources/Stylesheets/StylesForHomePage.css"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/HeroStockImages/HeroImage-1.jpg"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/HeroStockImages/HeroImage-1.jpg" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png" />
+    <Url
+      Source="../Soledad/Project/VariableSets/General.flvar"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Project/VariableSets/General.flvar" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png" />
+    <Url
+      Source="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png"
+      AbsoluteSource="file:///C:/Repos_GitHub/MadCapRepo/Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="Content/Home.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/Sample Landing Topic.htm"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/A_Introduction Topics/Basic Steps.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/A_Introduction Topics/Getting Started.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/A_Introduction Topics/Whats New.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/B_Feature Topics/Feature1.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/B_Feature Topics/Feature2.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/B_Feature Topics/Feature3.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/B_Feature Topics/Features.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/C_Procedure Topics/Procedure1.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/C_Procedure Topics/Procedure2.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/C_Procedure Topics/Procedure3.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/C_Procedure Topics/Procedures.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/D_More Information/Company Information.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/D_More Information/FAQs.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/D_More Information/PDF Downloads.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/D_More Information/Tips.htm"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/Resources/MasterPages/HomePage.flmsp"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Stylesheets/StylesForHomePage.css"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/HeroStockImages/HeroImage-1.jpg"
+      TimeStamp="2021-05-05 14:32:38" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Project/VariableSets/General.flvar"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png"
+      TimeStamp="2021-05-05 14:32:40" />
+    <Url
+      Source="Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png"
+      TimeStamp="2021-05-05 14:32:40" />
+  </GeneratedFiles>
 </CatapultProject>

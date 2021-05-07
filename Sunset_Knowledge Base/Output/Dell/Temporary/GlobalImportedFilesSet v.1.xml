@@ -1,6 +1,112 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalImportedFilesCache
-  SavedSource="file:///C:/Repos_GitHub/Repos_GitHub_Markdown/Sunset/Output/Dell/Temporary/GlobalImportedFilesSet v.1.xml">
-  <ImportedMap />
-  <SourceUrls />
+  SavedSource="file:///C:/Repos_GitHub/MadCapRepo/Sunset_Knowledge Base/Output/Dell/Temporary/GlobalImportedFilesSet v.1.xml">
+  <ImportedMap>
+    <Map
+      Local="Content/Home.htm"
+      Remote="../Soledad/Content/Home.htm" />
+    <Map
+      Local="Content/Sample Landing Topic.htm"
+      Remote="../Soledad/Content/Sample Landing Topic.htm" />
+    <Map
+      Local="Content/A_Introduction Topics/Basic Steps.htm"
+      Remote="../Soledad/Content/A_Introduction Topics/Basic Steps.htm" />
+    <Map
+      Local="Content/A_Introduction Topics/Getting Started.htm"
+      Remote="../Soledad/Content/A_Introduction Topics/Getting Started.htm" />
+    <Map
+      Local="Content/A_Introduction Topics/Whats New.htm"
+      Remote="../Soledad/Content/A_Introduction Topics/Whats New.htm" />
+    <Map
+      Local="Content/B_Feature Topics/Feature1.htm"
+      Remote="../Soledad/Content/B_Feature Topics/Feature1.htm" />
+    <Map
+      Local="Content/B_Feature Topics/Feature2.htm"
+      Remote="../Soledad/Content/B_Feature Topics/Feature2.htm" />
+    <Map
+      Local="Content/B_Feature Topics/Feature3.htm"
+      Remote="../Soledad/Content/B_Feature Topics/Feature3.htm" />
+    <Map
+      Local="Content/B_Feature Topics/Features.htm"
+      Remote="../Soledad/Content/B_Feature Topics/Features.htm" />
+    <Map
+      Local="Content/C_Procedure Topics/Procedure1.htm"
+      Remote="../Soledad/Content/C_Procedure Topics/Procedure1.htm" />
+    <Map
+      Local="Content/C_Procedure Topics/Procedure2.htm"
+      Remote="../Soledad/Content/C_Procedure Topics/Procedure2.htm" />
+    <Map
+      Local="Content/C_Procedure Topics/Procedure3.htm"
+      Remote="../Soledad/Content/C_Procedure Topics/Procedure3.htm" />
+    <Map
+      Local="Content/C_Procedure Topics/Procedures.htm"
+      Remote="../Soledad/Content/C_Procedure Topics/Procedures.htm" />
+    <Map
+      Local="Content/D_More Information/Company Information.htm"
+      Remote="../Soledad/Content/D_More Information/Company Information.htm" />
+    <Map
+      Local="Content/D_More Information/FAQs.htm"
+      Remote="../Soledad/Content/D_More Information/FAQs.htm" />
+    <Map
+      Local="Content/D_More Information/PDF Downloads.htm"
+      Remote="../Soledad/Content/D_More Information/PDF Downloads.htm" />
+    <Map
+      Local="Content/D_More Information/Tips.htm"
+      Remote="../Soledad/Content/D_More Information/Tips.htm" />
+    <Map
+      Local="Content/Resources/MasterPages/HomePage.flmsp"
+      Remote="../Soledad/Content/Resources/MasterPages/HomePage.flmsp" />
+    <Map
+      Local="Content/Resources/Stylesheets/StylesForHomePage.css"
+      Remote="../Soledad/Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Map
+      Local="Content/Resources/Images/Assets/HeroStockImages/HeroImage-1.jpg"
+      Remote="../Soledad/Content/Resources/Images/Assets/HeroStockImages/HeroImage-1.jpg" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png" />
+    <Map
+      Local="Project/VariableSets/General.flvar"
+      Remote="../Soledad/Project/VariableSets/General.flvar" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png" />
+    <Map
+      Local="Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png"
+      Remote="../Soledad/Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png" />
+  </ImportedMap>
+  <SourceUrls>
+    <Url
+      Source="Project/Imports/Soledad.flimpfl" />
+  </SourceUrls>
 </CatapultGlobalImportedFilesCache>

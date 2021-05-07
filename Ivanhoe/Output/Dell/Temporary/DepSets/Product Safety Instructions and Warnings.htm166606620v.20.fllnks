@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Product Safety Instructions and Warnings"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Rows.css" />
+    <Link
+      Url="../../MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css" />
+    <Link
+      Url="Content/_Images/ISO warnings.png" />
+    <Link
+      Url="Content/_Images/ANSI warnings.png" />
+    <Link
+      Url="https://www.youtube.com/watch" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Rows.css" />
+    <Link
+      Url="../../MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css" />
+    <Link
+      Url="Content/_Images/ISO warnings.png" />
+    <Link
+      Url="Content/_Images/ANSI warnings.png" />
+    <Link
+      Url="https://www.youtube.com/watch?v=BRx_pCaMKI0" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Rows.css" />
+    <Url
+      Source="../../MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

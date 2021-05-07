@@ -27,7 +27,7 @@
   <Destinations> </Destinations>
   <Variables>
     <Variable
-      Name="General/CompanyName">@2021 Agnieszka Bytomska</Variable>
+      Name="General/About the Author:">@2021 Agnieszka Bytomska</Variable>
     <Variable
       Name="General/Email">a.bytomska@gmai.com</Variable>
     <Variable
