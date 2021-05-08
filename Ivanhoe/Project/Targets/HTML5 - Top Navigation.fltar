@@ -16,7 +16,7 @@
   MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
   MasterStylesheetOverride="true"
   OutputFile="index.html"
-  OutputFolder="C:\Repos_GitHub\MadCapRepo\Ivanhoe\Output\Dell\HTML5 - Top Navigation">
+  OutputFolder="C:\Repos_GitHub\MadCapRepo">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
