@@ -15,7 +15,7 @@
   DefaultUrl="/Content/Home.htm"
   MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
   MasterStylesheetOverride="true"
-  OutputFile="index.htm"
+  OutputFile="index.html"
   OutputFolder="C:\Repos_GitHub\MadCapRepo\Ivanhoe\Output\Dell\HTML5 - Top Navigation">
   <PrintedOutput
     CollapseMargins="true"
