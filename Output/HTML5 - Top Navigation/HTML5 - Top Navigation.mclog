@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5 - Top Navigation.fltar" Date="2021-05-08T15:03:39.5901968+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5 - Top Navigation.fltar" Date="2021-05-08T16:27:20.8953990+02:00">
     <Messages>Compiling target HTML5 - Top Navigation...
 Removing previously generated content...
 Loading skin info...
@@ -27,6 +27,11 @@ Processing topic: C_Legally Desired Content\Terminology.htm...
 Applying master page OtherTopics.flmsp...
 Generated C_Legally Desired Content\Terminology.htm
 Processing topic: C_Legally Desired Content\Product Safety Instructions and Warnings.htm...
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Missing table style C:\Repos_GitHub\MadCapFlare\Knowledge Base\Content\Resources\TableStyles\Columns.css
 Link points outside project file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
 Applying master page OtherTopics.flmsp...
 Generated C_Legally Desired Content\Product Safety Instructions and Warnings.htm
@@ -105,12 +110,17 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.html
 Saving result set...
 Ignored Compiler Warnings: 19
-Output generated in 16 second(s).
+Output generated in 13 second(s).
 
 Done
 Saving log to "C:\Repos_GitHub\MadCapRepo\Output\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"
 </Messages>
     <Warnings>
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5 - Top Navigation" ErrorID="10010" />
+        <LogEntry Message="Missing table style C:\Repos_GitHub\MadCapFlare\Knowledge Base\Content\Resources\TableStyles\Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="BoxLayout" ErrorID="10008" />
         <LogEntry File="../../../Content/C_Legally Desired Content/Product Safety Instructions and Warnings.htm" Message="Link points outside project file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Missing linked source file: C:\Repos_GitHub\MadCapRepo\Ivanhoe\Content\Resources\MasterPages\[[[Undefined variable General.Twitter]]]&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Missing linked source file: C:\Repos_GitHub\MadCapRepo\Ivanhoe\Content\Resources\MasterPages\[[[Undefined variable General.Instagram]]]&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
