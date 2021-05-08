@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/ANSI warnings.png" />
+    <Url Source="Resources/Images/ISO warnings.png" />
     <Url Source="_Images/IATE.png" />
     <Url Source="G_PDF files/02_guidance_on_the_documentation_requirements_of_iso_9001_2008..pdf#1" />
     <Url Source="G_PDF files/1-LocationofWarningsOnProductorintheManual.pdf#1" />
