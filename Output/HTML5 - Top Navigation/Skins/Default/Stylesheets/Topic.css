@@ -406,6 +406,13 @@ div.MCBreadcrumbsBox_0
 	margin-bottom: 10px;
 }
 
+video._0
+{
+	display: inline-block;
+	width: 405px;
+	height: 219px;
+}
+
 .dropDownHotspot
 {
 	color: #4F7476;

@@ -5,8 +5,14 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="http://eur-lex.europa.eu/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="http://eur-lex.europa.eu/" />
+  </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />

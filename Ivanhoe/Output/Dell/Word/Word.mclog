@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated Word.fltar" Date="2021-05-14T21:44:08.4156268+02:00">
+    <Messages>Compiling target Word...
+Checking Word version...
+Build failed: Nie można rzutować obiektu modelu COM typu 'Microsoft.Office.Interop.Word.ApplicationClass' na typ interfejsu 'Microsoft.Office.Interop.Word._Application'. Ta operacja nie powiodła się, ponieważ wywołanie metody QueryInterface dla składnika modelu COM w celu uzyskania interfejsu o identyfikatorze IID '{00020970-0000-0000-C000-000000000046}' nie powiodło się z powodu następującego błędu: Niezarejestrowana biblioteka. (Wyjątek od HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)).
+Publish skipped: Target not built.
+Saving log to "C:\Repos_GitHub\MadCapRepo\Ivanhoe\Output\Dell\Word\Word.mclog"
+</Messages>
+    <Warnings />
+    <Errors>
+        <LogEntry File="Project\Targets\Word.fltar" Message="Build failed: Nie można rzutować obiektu modelu COM typu 'Microsoft.Office.Interop.Word.ApplicationClass' na typ interfejsu 'Microsoft.Office.Interop.Word._Application'. Ta operacja nie powiodła się, ponieważ wywołanie metody QueryInterface dla składnika modelu COM w celu uzyskania interfejsu o identyfikatorze IID '{00020970-0000-0000-C000-000000000046}' nie powiodło się z powodu następującego błędu: Niezarejestrowana biblioteka. (Wyjątek od HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED)).&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="Word" ErrorID="10086" />
+        <LogEntry File="../../../Project/Targets/Word.fltar" Message="Publish skipped: Target not built.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Publisher" Target="Word" ErrorID="140000" />
+    </Errors>
+</MadCapLog>

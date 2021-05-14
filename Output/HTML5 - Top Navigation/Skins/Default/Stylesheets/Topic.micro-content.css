@@ -406,6 +406,13 @@
 	margin-bottom: 10px;
 }
 
+.micro-response video._0
+{
+	display: inline-block;
+	width: 405px;
+	height: 219px;
+}
+
 .micro-response .dropDownHotspot
 {
 	color: #4F7476;

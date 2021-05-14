@@ -1,8 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\Repos_GitHub\MadCapRepo\Ivanhoe\Content\Resources\Images\ISO warnings.png" />
+        <Link Value="C:\Repos_GitHub\MadCapRepo\Ivanhoe\Content\Resources\Images\ANSI warnings.png" />
     </Dialog>
-    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
-    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage">
+        <Link Value="C:\Repos_GitHub\MadCapRepo\Ivanhoe\Content\Resources\Multimedia\Struktura dokumentacji systemowej.mp4" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Repos_GitHub\MadCapRepo\Ivanhoe\Content\Resources\Multimedia\Struktura dokumentacji systemowej.mp4" />
+    </Dialog>
 </RecentLinks>

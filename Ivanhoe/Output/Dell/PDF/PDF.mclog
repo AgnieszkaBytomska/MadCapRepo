@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated PDF.fltar" Date="2021-05-14T21:43:11.6633808+02:00">
+    <Messages>Compiling target PDF...
+Removing previously generated content...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Generating Glossary...
+Processing Page Layouts...
+Collecting source files...
+Processing source files...
+Processing topic: Getting Started.htm
+Processing CSS: Resources\Stylesheets\MainStyles.css...
+YouTube/Vimeo not supported in this output. Replaced with static images.
+Processing topic: Overview.htm
+YouTube/Vimeo not supported in this output. Replaced with static images.
+Processing topic: Legally Required Content.htm
+Processing topic: Terminology.htm
+Processing topic: Product Safety Instructions and Warnings.htm
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Missing table style C:\Repos_GitHub\MadCapFlare\Knowledge Base\Content\Resources\TableStyles\Columns.css
+Processing CSS: Resources\TableStyles\Rows.css...
+Link points outside project file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+YouTube/Vimeo not supported in this output. Replaced with static images.
+Processing topic: Protection Notices for Restricting the Use of Technical Documentation .htm
+Processing topic: Legal Requirements vs Market .htm
+Processing topic: PL Requirements.htm
+Processing topic: EU Requirements.htm
+Processing topic: US Requirements.htm
+Processing topic: Legal Requirements vs Product Type .htm
+Processing topic: UM for Machinery.htm
+Processing topic: Measuring instruments.htm
+Processing topic: UM for Electronic Equipment.htm
+Processing topic: UM for Medical Devices.htm
+Processing topic: UM for Toys.htm
+Processing topic: Checklist.htm
+Processing topic: Content of a Manual.htm
+Processing topic: Sample Structure.htm
+Processing topic: Checklist for Safety Instructions and Warnings in the User Manual .htm
+Processing topic: Installation Safety Considerations.htm
+Processing topic: Operation Safety Considerations.htm
+Processing topic: Maintenance and Cleaning Safety Considerations.htm
+Processing topic: FAQs.htm
+Processing topic: PDF Downloads.htm
+Linking cross-references...
+Creating chapters...
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Paginating...
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Collecting TOC and Index data..
+Generating TOC and Index...
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Formatting page numbers...
+Updating cross-references...
+Processing variables in GeneratedTOC.htm...
+Paginating GeneratedTOC.htm...
+     25 pages completed...
+     Table header is too large to fit on page 46. Content may overflow.
+     Final page count = 47.
+Processing variables in GeneratedGlossary.htm...
+Paginating GeneratedGlossary.htm...
+     Final page count = 4.
+Updating links...
+Adding PDF for GeneratedTOC.htm...
+Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css
+Adding PDF for GeneratedGlossary.htm...
+Saving PDF PDF.pdf...
+Removing temporary chapter files...
+Generating final output...
+Patching links and page references...
+Generated ../../../PDF/PDF.pdf
+Saving result set...
+Ignored Compiler Warnings: 10
+Output generated in 29 second(s).
+
+Done
+Publishing target PDF...
+Publish skipped: No destination selected.
+Saving log to "C:\Repos_GitHub\MadCapRepo\Ivanhoe\Output\Dell\PDF\PDF.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry File="../../../Content/A_Introduction Topics/Getting Started.htm" Message="YouTube/Vimeo not supported in this output. Replaced with static images.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="YouTube/Vimeo Compiler" Target="PDF" ErrorID="40042" />
+        <LogEntry File="../../../Content/A_Introduction Topics/Overview.htm" Message="YouTube/Vimeo not supported in this output. Replaced with static images.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="YouTube/Vimeo Compiler" Target="PDF" ErrorID="40042" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="PDF" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="PDF" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="PDF" ErrorID="10010" />
+        <LogEntry Message="Missing table style C:\Repos_GitHub\MadCapFlare\Knowledge Base\Content\Resources\TableStyles\Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="BoxLayout" ErrorID="10008" />
+        <LogEntry File="../../../Content/C_Legally Desired Content/Product Safety Instructions and Warnings.htm" Message="Link points outside project file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="PDF" ErrorID="10056" />
+        <LogEntry File="../../../Content/C_Legally Desired Content/Product Safety Instructions and Warnings.htm" Message="YouTube/Vimeo not supported in this output. Replaced with static images.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="YouTube/Vimeo Compiler" Target="PDF" ErrorID="40042" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="PDF" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="PDF" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="PDF" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="PDF" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="PDF" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="PDF" ErrorID="10010" />
+        <LogEntry Message="Table header is too large to fit on page 46. Content may overflow.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="BoxLayout" ErrorID="10009" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Repos_GitHub/MadCapFlare/Knowledge Base/Content/Resources/TableStyles/Columns.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="PDF" ErrorID="10010" />
+    </Warnings>
+    <Errors>
+        <LogEntry File="../../../Project/Targets/PDF.fltar" Message="Publish skipped: No destination selected.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Publisher" Target="PDF" ErrorID="140001" />
+    </Errors>
+</MadCapLog>

@@ -17,6 +17,9 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/C_Legally Desired Content/Product Safety Instructions and Warnings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Legally Desired Content/Protection Notices for Restricting the Use of Technical Documentation .htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
@@ -36,7 +39,11 @@
     Link="/Content/E_Legal Requirements Product Type/Legal Requirements vs Product Type .htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/E_Legal Requirements Product Type/UM for Machinery.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/E_Legal Requirements Product Type/UM for Machinery.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/E_Legal Requirements Product Type/Measuring instruments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/E_Legal Requirements Product Type/UM for Electronic Equipment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
@@ -52,10 +59,23 @@
     Link="/Content/D_Checklist/Checklist.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/D_Checklist/Checklist for Complete User Manual.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/D_Checklist/Content of a Manual.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/D_Checklist/Checklist for Safety Instructions and Warnings in the User Manual .htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/D_Checklist/Sample Structure.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_Checklist/Checklist for Safety Instructions and Warnings in the User Manual .htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/D_Checklist/Installation Safety Considerations.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/D_Checklist/Operation Safety Considerations.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/D_Checklist/Maintenance and Cleaning Safety Considerations.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"

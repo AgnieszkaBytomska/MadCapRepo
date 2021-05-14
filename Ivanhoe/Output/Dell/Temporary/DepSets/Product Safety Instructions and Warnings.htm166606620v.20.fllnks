@@ -13,7 +13,7 @@
     <Link
       Url="Content/Resources/Images/ISO warnings.png" />
     <Link
-      Url="Content/_Images/ANSI warnings.png" />
+      Url="Content/Resources/Images/ANSI warnings.png" />
     <Link
       Url="https://www.youtube.com/watch" />
   </Links>
@@ -25,7 +25,7 @@
     <Link
       Url="Content/Resources/Images/ISO warnings.png" />
     <Link
-      Url="Content/_Images/ANSI warnings.png" />
+      Url="Content/Resources/Images/ANSI warnings.png" />
     <Link
       Url="https://www.youtube.com/watch?v=BRx_pCaMKI0" />
   </LongLinks>

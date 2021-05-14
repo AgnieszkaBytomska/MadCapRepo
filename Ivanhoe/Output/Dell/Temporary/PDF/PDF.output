@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/Dell/PDF/PDF.pdf"
+  BuildVersion="16.2.7685.28170">
+  <Files>
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_583C1AE6/Resources/TableStyles/Rows.css" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_583C1AE6/G_PDF files/1-LocationofWarningsOnProductorintheManual.pdf" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_583C1AE6/_Images/IATE.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_583C1AE6/G_PDF files/02_guidance_on_the_documentation_requirements_of_iso_9001_2008..pdf" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_583C1AE6/Resources/Images/ANSI warnings.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_583C1AE6/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_583C1AE6/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png" />
+    <Url
+      Source="Output/Dell/PDF/PDF.pdf" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_583C1AE6/Resources/Images/ISO warnings.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_583C1AE6/_Images/US req.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

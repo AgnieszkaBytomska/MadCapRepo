@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Getting Started.htm'],s:['09'],p:[['09',4],['included',17],['their',16]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Getting Started.htm'],s:['03007','stand'],p:[['03007',7],['english',6],['of',12],['they',23]]});

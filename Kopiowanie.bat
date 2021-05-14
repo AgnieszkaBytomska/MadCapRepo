@@ -1,0 +1,1 @@
+xcopy "C:\Repos_GitHub\MadCapRepo\Output\HTML5 - Top Navigation" "C:\Repos_GitHub\Knowledge_Base_Ivanhoe" /E /Y

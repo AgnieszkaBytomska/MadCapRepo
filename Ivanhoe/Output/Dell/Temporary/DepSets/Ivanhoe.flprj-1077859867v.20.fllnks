@@ -7,10 +7,14 @@
   <Links>
     <Link
       Url="Content/Resources/Stylesheets/MainStyles.css" />
+    <Link
+      Url="Content/Resources/Multimedia/Struktura dokumentacji systemowej.mp4" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/MainStyles.css" />
+    <Link
+      Url="Content/Resources/Multimedia/Struktura dokumentacji systemowej.mp4" />
   </LongLinks>
   <Anchors />
   <Keywords />
